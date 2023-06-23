@@ -5,7 +5,9 @@ Este é um projeto realizado no curso Ignite da [Rocketseat](https://www.rockets
 Trata-se de uma aplicação para controlar entradas e saídas financeiras.
 
 ## Demo
-Em breve. Devido ao fato de a aplicação depender de uma api. Este projeto não funcionará 100% no momento.
+https://wj-rocketseat-dt-money.netlify.app/
+
+Devido ao fato de a aplicação depender de uma api, este projeto não funcionará.
 Ideal rodar o projeto localmente seguindo os passos abaixo.
 
 ## Para instalar o projeto
